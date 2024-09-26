@@ -1,6 +1,6 @@
 name: grayscale_filter
 description: A package to apply grayscale filters to images with customizable intensity.
-version: 0.0.1
+version: 0.1.0-pre.0
 repository: https://github.com/lucas-goldner/grayscale_filter/
 homepage: https://github.com/lucas-goldner/grayscale_filter/
 

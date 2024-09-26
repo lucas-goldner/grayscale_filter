@@ -10,7 +10,11 @@ pub get grayscale_filter
 
 ## Usage
 
-TBD
+```bash
+dart pub run grayscale_filter --input .example/test.jpeg --output .example/test2.jpeg --amount 0.5
+```
+
+Supported options are 'input', 'output', 'amount', 'mask', 'maskChannel'
 
 ## Contributing
 
